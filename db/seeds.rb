@@ -91,7 +91,7 @@ avatar_url = "https://p7.hiclipart.com/preview/340/956/944/computer-icons-user-p
     city: "City #{i+1}",
     avatar: avatar_url,
     email: "user#{i+1}@example.com",
-    password_digest: "password",
+    password: "password",
   )
 end
 
